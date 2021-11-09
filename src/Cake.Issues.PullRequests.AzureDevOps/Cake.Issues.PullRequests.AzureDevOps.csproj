@@ -47,7 +47,7 @@ See the Project Site for an overview of the whole ecosystem of addins for workin
     <PackageReference Include="Cake.Issues" Version="1.0.0" PrivateAssets="All" />
     <PackageReference Include="Cake.Issues.PullRequests" Version="1.0.0" PrivateAssets="All" />
     <PackageReference Include="Cake.AzureDevOps" Version="1.0.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="5.0.3">
+    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="6.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
